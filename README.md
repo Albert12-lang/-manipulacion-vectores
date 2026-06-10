@@ -21,11 +21,11 @@ Este sistema sirve para practicar manipulación del DOM, arreglos y algoritmos b
 En conclusión la elaboración de esté componente nos ayudó a poder aprender nuevas maneras de poder implementar diferentes acciones en el mismo ejercicio como una tabla numérica, una tabla dentro de otra, varios botones que tendrán diferentes acciones y lo más importante los dos tipos de ordenamiento.
 
 ## Bibliografía. 
-Haverbeke, M. (2018). Eloquent JavaScript (3rd ed.). No Starch Press.
-Crockford, D. (2008). JavaScript: The good parts. O’Reilly Media.
-Mozilla Developer Network. (2024). JavaScript guide. https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide
-Cormen, T. H., Leiserson, C. E., Rivest, R. L., & Stein, C. (2009). Introduction to algorithms (3rd ed.). MIT Press.
-McMillan, M. (2014). Data structures and algorithms with JavaScript. O’Reilly Media.
+* Haverbeke, M. (2018). Eloquent JavaScript (3rd ed.). No Starch Press.
+* Crockford, D. (2008). JavaScript: The good parts. O’Reilly Media.
+* Mozilla Developer Network. (2024). JavaScript guide. https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide
+* Cormen, T. H., Leiserson, C. E., Rivest, R. L., & Stein, C. (2009). Introduction to algorithms (3rd ed.). MIT Press.
+* McMillan, M. (2014). Data structures and algorithms with JavaScript. O’Reilly Media.
 
 ## Autores de está actividad.
 1. Alavera Mejía Wellington Zinedine.
